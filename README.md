@@ -14,4 +14,5 @@ https://www.city.odawara.kanagawa.jp/field/municipality/digital/council/p38051.h
 地域幸福度（Well-Being）｜デジタル庁
 https://www.digital.go.jp/policies/digital_garden_city_nation/well-being
 
-
+スクールAI
+https://school-ai-system.web.app/login_for_student
