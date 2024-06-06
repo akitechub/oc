@@ -1,5 +1,5 @@
 # oc
-oc public
+＜担当 鈴木＞
 
 トップページ - RESAS 地域経済分析システム
 https://resas.go.jp/#/3/03201
