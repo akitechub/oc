@@ -1,4 +1,13 @@
-# oc
+# 観光メディア文化学部 オープンキャンパス
+## メディア情報文化学科
+
+
+### ＜担当 秋廣＞
+
+（１）オープンキャンパス共有テスト
+https://docs.google.com/document/d/1Ut9WO3A-RqDD8ePBsbFgLWgA9UmANCn2y-5qTIYwZUk/edit?usp=sharing
+
+---
 
 ### ＜担当 鈴木＞
 
