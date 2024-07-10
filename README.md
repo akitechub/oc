@@ -4,8 +4,9 @@
 
 ### ＜担当 秋廣＞
 
-（１）オープンキャンパス共有テスト
-https://docs.google.com/document/d/1Ut9WO3A-RqDD8ePBsbFgLWgA9UmANCn2y-5qTIYwZUk/edit?usp=sharing
+<p>（１）<a href="https://docs.google.com/document/d/1Ut9WO3A-RqDD8ePBsbFgLWgA9UmANCn2y-5qTIYwZUk/edit?usp=sharing
+" target="_blank">オープンキャンパス共有テスト</a></p>
+
 
 ---
 
