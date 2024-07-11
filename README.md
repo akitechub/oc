@@ -6,8 +6,12 @@
 
 <p>（１）<a href="https://docs.google.com/document/d/1Ut9WO3A-RqDD8ePBsbFgLWgA9UmANCn2y-5qTIYwZUk/edit?usp=sharing" target="_blank">模擬授業 メディア情報</a></p>
 
-<p>（２）<a href="https://github.com/akitechub/oc/blob/master/boy.psd" target="_blank">教材（boy.psd）</a></p>
 
+<p>（２）<a href="[https://github.com/akitechub/oc/blob/master/boy.psd](https://www.photopea.com/#%7B%22files%22:%5B%22https%3A%2F%2Fakitec.org%2Fboy.psd%22%5D%7D)" target="_blank">教材（boy.psd）</a></p>
+
+
+<p>（２）<a href="https://www.photopea.com/#%7B%22files%22:%5B%22https%3A%2F%2Fakitec.org%2Fboy.psd%22%5D%7D" target="_blank">教材（boy.psd）</a></p>
+※ photopea API → psd file (hosting sakura）
 ---
 
 ### ＜担当 鈴木＞
